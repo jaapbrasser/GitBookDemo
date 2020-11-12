@@ -1,6 +1,0 @@
-{
-    "root": "./docs",
-    "description": "This contains GitBook Demo Repository",
-    "language": "en",
-    "plugins": ["expandable-chapters-small"]
-}
