@@ -10,3 +10,6 @@
 
 * [Additional Info](../chapter-2/additional-info.md)
 
+## Chapter 3
+
+* [Some Stuff](/chapter3/stuff.md)
