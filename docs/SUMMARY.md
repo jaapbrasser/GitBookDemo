@@ -1,9 +1,12 @@
-# GitBook Demo Repository
+# Table of contents
+
+* [Introduction](README.md)
 
 ## Chapter 1
 
-* [Some Info](someinfo.md)
+* [Some Info](../chapter-1/some-info.md)
 
 ## Chapter 2
 
-* [Additional Info](additionalinfo.md)
+* [Additional Info](../chapter-2/additional-info.md)
+
