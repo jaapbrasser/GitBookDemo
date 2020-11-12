@@ -12,4 +12,5 @@
 
 ## Chapter 3
 
-* [Some Stuff](/chapter3/stuff.md)
+* [Some Stuff](../chapter-3/some-stuff.md)
+
