@@ -12,5 +12,5 @@
 
 ## Chapter 3
 
-* [Some Stuff](../chapter-3/some-stuff.md)
+* [Some Stuff](../brokenlink/chapter-3/some-stuff.md)
 
